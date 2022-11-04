@@ -5,7 +5,6 @@
 - 📫 How to reach me: 
 - EMAIL: skidmoreco@gmail.com
 - LINKEDIN: https://www.linkedin.com/in/skidmorecorey/
-- 
 
 <!---
 skidmoreco/skidmoreco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
