@@ -1,5 +1,5 @@
 - 👋 Hey there!
-- My name is Corey Skidmore, and join me on adventure into the world of Software Development.
+- My name is Corey Skidmore, and join me on my adventure into the world of Software Development.
 - I'm currently based in Dayton, OH & enrolled in Ohio State University's Full Stack Development Bootcamp.
 - Currently using daily: HTML5, CSS, JAVASCRIPT, BOOTSTRAP, NODE.JS, EXPRESS.JS, SEQUELIZE, MySQL.
 - 📫 How to reach me: 
